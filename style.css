@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    font-family: 'Pangolin', cursive;
+font-family: 'Yellowtail', cursive;
+}
+h1{
+    font-size:50px;
+}
+.name-highlight{
+    color: orange;
+}
+.half-width{
+    width:40% ;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
+.top-banar{
+    border: 1px solid goldenrod;
+    background-image: url("img/dark.jpg");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(126, 96, 19);
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
